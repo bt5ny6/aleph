@@ -6,6 +6,36 @@ a.l.e.p.h
 [![License](https://img.shields.io/badge/license-LGPLv2.1%2B-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
 aleph is an attempt at a properly made metaverse based on the voxel game engine minetest
+the idea began in 2021 when i was just chill while the whole NFT bubble started and visited
+some somewhat dissapointing "attempts" if you could even call them that, at a metaverse
+and so i figured why not make it in minecraft, well fast forward to 2023 i was done with
+minecraft and every limitation it put on me and how rotten the code was and how little it
+could change, so i looked up and found minetest, and so i started planing what and how to 
+do what i wanted to do so by now, late september 2024 i am finally starting to actively
+develop this fork 
+
+first of all i will state, when the official release is done for the quest plataform
+there will be a required subscription *1 dolar per month* to use voicechat, text chat
+and other forms of comunication, this is in order to be able to finance the servers and
+a plausible automated age moderation system that could happen sometime in the future
+but for now, its just an idea i have to skip the worst part of what other "metaverse's"
+have, now onto a higher note
+
+bypassing this will be easy if disabled on community servers and shared local worlds
+and shared local worlds are what was blockman go or multiplayer master, worlds that
+you hosted and other players from arround you or the whole world could join with no
+unecesary 3rd party apps, i was a player of those services and i miss being able to 
+just chill in a random minecraft p.e world that some dude hosted 
+
+
+and at last the game is meant to be played either in vr, android, or pc
+compilation for game consoles is hard and i dont want to have anything to do with 
+them in any way so support for them is not to be expected for a near future
+
+i plan to be able to put together the whole base game and put it on the quest platform
+as soon as late 2025 so, for now, this note is all you see or know about this proyect
+so for now, stay tunned!
+
 
 Copyright (C) 2010-2022 Perttu Ahola <celeron55@gmail.com>
 and contributors (see source file comments and the version control log)
